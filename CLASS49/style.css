@@ -1,0 +1,36 @@
+h1{
+    color:aqua;
+} *{
+
+    border: solid;
+}
+
+
+
+
+.header{
+    background-color:aquamarine;
+    display:flex;
+    justify-content:flex-start;
+}
+
+.footer{
+    background-color: blueviolet;
+    display: flex;
+    justify-content:flex-start;
+
+}
+
+.grid{
+    background-color: greenyellow;
+    display: flex;
+    justify-content: baseline;
+}
+
+
+p,h2{
+    text-align: center;
+    text-size-adjust: 22;
+    text-shadow: 3px;
+}
+
